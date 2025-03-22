@@ -106,13 +106,13 @@ class Contact {
   
   //UC3
   contactDetails(
-    "Abhishek",
-    "Sharma",
+    "Aditya",
+    "Tiwari",
     "Home",
-    "Uttar Pradesh",
-    "Mathura",
-    "281406",
-    "abhishek@gmail.com",
+    "Madhya Pradesh",
+    "Nowgong",
+    "471201",
+    "tiwari.adi2008@gmail.com",
     "3345452525"
   );
   console.log(addressBook);
